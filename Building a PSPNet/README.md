@@ -10,3 +10,5 @@ This module implements PSPNet (Pyramid Scene Parsing Network), a state-of-the-ar
 - **Deep Residual Network Backbone:** Uses ResNet as the backbone network for feature extraction.
 - **Auxiliary Loss:** Incorporates an auxiliary loss to improve training stability and performance.
 - **Configurable Parameters:** Allows customization of parameters like the number of layers in the backbone, number of classes, and input image size.
+
+![Example Image](Segmentation.png)
